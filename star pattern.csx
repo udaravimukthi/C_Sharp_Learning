@@ -1,3 +1,5 @@
+using System;
+
 namespace Starpattern{
   class Program{
     static void Main(string[] args){
