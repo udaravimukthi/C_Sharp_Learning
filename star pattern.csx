@@ -1,6 +1,6 @@
 using System;
 
-namespace Starpattern{
+// namespace Starpattern{
   class Program{
     static void Main(string[] args){
       Console.WriteLine("    *  ");
@@ -9,4 +9,4 @@ namespace Starpattern{
       Console.ReadLine();    
     }
   }
-} 
+// } 
